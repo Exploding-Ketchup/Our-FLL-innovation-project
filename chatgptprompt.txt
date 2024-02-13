@@ -1,0 +1,106 @@
+Please make a prompt for an AI image generator which has atleast 8-10 sentences. 
+
+It is for displaying a person's feeling via art. The person is a {gender}, and is mostly feeling {emotionOne}, a little bit of {emotionTwo} and slight {emotionThree}.
+
+PLEASE KEEP THE DOMINANT, MOST FELT EMOTIONS in mind when crafting the AI image prompt.
+
+{personalString}
+
+Here are some examples of scenes, objects and/or artistic styles you could use in the prompt for different emotions. You don't have to use these if you don't wish to:
+
+-Disgust:
+
+Scene/Object: A decaying, abandoned cityscape with polluted skies.
+Artistic Style: Surrealism with distorted and dreamlike imagery.
+Additional: A polluted and littered urban alley with neglected, overflowing garbage bins.
+Artistic Style: Photorealism with meticulous attention to detail.
+Additional: Rotting food in a deteriorating environment.
+Artistic Style: Grotesque art with exaggerated and distorted features.
+Additional: A toxic, sludgy swamp with noxious fumes.
+Artistic Style: Dark fantasy art with eerie and otherworldly elements.
+Additional: A neglected, mold-covered room with peeling wallpaper.
+Artistic Style: Gothic art with intricate patterns and shadows.
+
+-Anger:
+
+Scene/Object: A raging storm over a turbulent ocean.
+Artistic Style: Abstract expressionism with bold, sweeping strokes.
+Additional: A volcanic eruption with lava spewing and fiery explosions.
+Artistic Style: Impressionism with intense, swirling colors.
+Additional: A clenched fist breaking through a solid surface.
+Artistic Style: Cubism with sharp, angular forms.
+Additional: A red-eyed, growling wolf baring its teeth.
+Artistic Style: Fauvism with vivid, wild colors.
+Additional: A chaotic battlefield with flames and clashes.
+Artistic Style: Symbolism with dramatic, allegorical elements.
+
+-Fear:
+
+Scene/Object: A dense, eerie forest with shadows and obscured paths.
+Artistic Style: Tenebrism with stark contrasts between light and dark.
+Additional: An abandoned, creaky mansion with long, dark corridors and flickering lights.
+Artistic Style: Horror art with a focus on suspense and darkness.
+Additional: A mysterious figure lurking in the shadows.
+Artistic Style: Noir art with a sense of mystery and suspense.
+Additional: A spiderweb-covered, dimly lit cave entrance.
+Artistic Style: Dark surrealism with intricate, unsettling details.
+Additional: A haunted, moonlit graveyard with mist swirling around tombstones.
+Artistic Style: Gothic romanticism with a moody, atmospheric feel.
+-Happiness:
+
+Scene/Object: A sunny meadow filled with vibrant flowers and butterflies.
+Artistic Style: Pointillism with tiny, colorful dots creating a harmonious whole.
+Additional: A joyful family picnic in a sunlit park.
+Artistic Style: Pop art with bright, bold colors and dynamic compositions.
+Additional: A rainbow stretching across a clear sky after a rain shower.
+Artistic Style: Naïve art with simple, childlike charm.
+Additional: A field of smiling sunflowers under a bright sun.
+Artistic Style: Fauvism with vibrant and expressive use of color.
+Additional: A lively street parade with colorful floats and music.
+Artistic Style: Street art with energetic, urban-inspired designs.
+-Sadness:
+
+Scene/Object: A solitary figure under a weeping willow tree in the rain.
+Artistic Style: Romanticism with a focus on emotion and nature.
+Additional: An old, weathered book open to a page filled with handwritten letters and dried flowers.
+Artistic Style: Vintage sepia-toned photography with a nostalgic feel.
+Additional: A faded, abandoned playground with rusty swings.
+Artistic Style: Urban decay art with a sense of desolation.
+Additional: A wilted flower in a cracked vase.
+Artistic Style: Still life painting with muted colors and soft lighting.
+Additional: A deserted, empty room with dusty furniture.
+Artistic Style: Minimalism with clean lines and subdued colors.
+-Neutral:
+
+Scene/Object: A calm, serene beach at sunset.
+Artistic Style: Realism with a focus on accurate representation.
+Additional: A calm, reflective lake surrounded by mountains.
+Artistic Style: Landscape painting with a serene and contemplative mood.
+Additional: A minimalist Zen garden with raked sand and carefully placed stones.
+Artistic Style: Japanese ink wash painting with simplicity and elegance.
+Additional: A simple, unadorned wooden bridge spanning a gentle stream.
+Artistic Style: Impressionism with soft, blurred edges and muted colors.
+Additional: A clear, starry night sky over a peaceful countryside.
+Artistic Style: Surrealism with dreamlike and fantastical elements.
+
+You can blend these ideas into different combinations depending on the person's DOMINANT AND MOST FELT emotions or come up with your own ideas for the prompt, but always keep in mind the most felt emotions of the person PLEASE. When you generate the prompt, it must contain many adjectives and some verbs. Here are some examples of AI image generator prompts that will help you to structure your own prompt when you make it: 
+An illustration of a mountain in the style of Impressionism with a wide aspect ratio.
+A photograph of a steampunk alien taken from a low-angle viewpoint.
+A sketch of a raccoon in bright colors and minimalist composition.
+A 3D rendering of a spaceship in the style of cubism with high resolution.
+An old woman washing her clothes in the winter in the style of Renaissance art with a narrow aspect ratio.
+A 3D rendering of a star with pastel colors and a whimsical look.
+A picture of a butterfly riding a motorcycle in vaporware style with a wide-angle view.
+A photograph of three friends playing music on the street in the style of Pop Art with a medium aspect ratio.
+A group of pug dogs at a rave in a Renaissance style.
+A sketch of a mysterious castle in the style of Gothic art with an aerial viewpoint.
+A 3D rendering of an office desk with a futuristic look and bokeh.
+Cubist painting of a backlit train station with bright colors and realistic textures.
+An illustration of a woman laying on a bed in a dynamic pose dreaming in black-and-white.
+Impressionist oil painting of a beach at sunset with a narrow aspect ratio.
+A photograph of a city skyline in the style of Edward Hopper taken from an aerial viewpoint.
+A 3D rendering of a cat sitting on a windowsill in minimalist style with high resolution.
+Graffiti-style painting of a city street with an urban look and textured surfaces.
+A sketch of a pirate ship in black-and-white with realistic textures and low resolution.
+A chalk drawing of a family picnic being attacked by ants in Central Park with a surrealist style.
+Et cetera. Only include the SINGULAR prompt in your answer, not anything else (like 'Certainly! Here's a prompt:')
